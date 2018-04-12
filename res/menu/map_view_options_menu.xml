@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/ondate"
+  		android:icon="@android:drawable/ic_menu_add"
+        android:title="Set Date" />
+  <item android:id="@+id/refreshmap"
+  		android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Refresh" />
+</menu>
+
